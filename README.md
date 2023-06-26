@@ -1,0 +1,2 @@
+This file is one of the projects that has helped me study R. Most of the data and contributions comes from @dataprofessor but latter analysis of data is my own. 
+This projects uses the popular dataset that relates to Iris'. Calculating their sepal length,width, etc. has been used to classify which species of Iris is which and allows researchers to use that data to make predictions on unclassified groups of Iris.
